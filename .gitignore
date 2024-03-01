@@ -1,0 +1,11 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/UsuarioLib/obj/Debug/net6.0/ref/UsuarioLib.dll
+/UsuarioLib/obj/Debug/net6.0/refint/UsuarioLib.dll
+/UsuarioLib/obj/Debug/net6.0/apphost.exe
+/UsuarioLib/obj/Debug/net6.0/UsuarioLib.csproj.FileListAbsolute.txt
+/UsuarioLib/obj/Debug/net6.0/UsuarioLib.dll
+/UsuarioLib/obj/Debug/net6.0/UsuarioLib.csproj.CoreCompileInputs.cache

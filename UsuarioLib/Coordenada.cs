@@ -14,7 +14,6 @@ public class Coordenada
     public double Latitude;
     public double Longitude;
 
-
     public override string ToString()
     {
         return $"{Latitude.ToString(CultureInfo.InvariantCulture)}, {Longitude.ToString(CultureInfo.InvariantCulture)}";
